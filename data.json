@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "nombre": "Laptop",
+        "precio": 480,
+        "imagen": "./img/product01.png"
+    },
+    {
+        "id": 2,
+        "nombre": "Auriculares",
+        "precio": 100,
+        "imagen": "./img/product02.png"
+    },
+    {
+        "id": 3,
+        "nombre": "Laptop HP",
+        "precio": 450,
+        "imagen": "./img/product03.png"
+    },
+    {
+        "id": 4,
+        "nombre": "PC Desktop",
+        "precio": 780,
+        "imagen": "./img/product04.png"
+    },
+    {
+        "id": 5,
+        "nombre": "Auriculares Gamer",
+        "precio": 480,
+        "imagen": "./img/product05.png"
+    }
+
+]
+
